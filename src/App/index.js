@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Alert, Button } from '@patternfly/react-core';
+import MyComponent from 'react-test-lib'
 import './app.css';
 
 export default class App extends Component {
@@ -25,6 +26,7 @@ export default class App extends Component {
               }
             >
               You have successfully launched your patternfly starter project.
+              <MyComponent />
             </Alert>
           </div>
         )}

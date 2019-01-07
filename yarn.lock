@@ -7494,6 +7494,11 @@ react-dom@^16.6.3:
     prop-types "^15.6.2"
     scheduler "^0.11.2"
 
+react-test-lib@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/react-test-lib/-/react-test-lib-1.0.1.tgz#9a8cab83e97970df3c740d20dabeebbd1618ad15"
+  integrity sha512-sQ1eowsvNreehoR0n/qtVfHS973hO9u+yfYRWy/65Th7F4y1WCUkq1oCs+yVTtcyWHk8XvSqcko05sQkC4Pbmg==
+
 react@^16.6.3:
   version "16.6.3"
   resolved "https://registry.yarnpkg.com/react/-/react-16.6.3.tgz#25d77c91911d6bbdd23db41e70fb094cc1e0871c"
